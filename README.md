@@ -1,2 +1,2 @@
 # breast-cancer-classification
-IA de classificação de câncer de mama - benigno e maligno.
+IA de classificação de câncer de mama em benigno e maligno.
