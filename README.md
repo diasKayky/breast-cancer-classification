@@ -1,6 +1,6 @@
 # NeoplasmClassifier: Classificação de Neoplasia de Mama em Benigna e Maligna
 
-> Um grupo de pesquisadores-médicos precisa de uma ferramenta para auxilar no diagnóstico de câncer de mama, para tal, é desenvolvida uma ferramenta utilizando IA para classificar um conjunto de dados de tecido neoplásico em maligno (canceroso) ou benigno, por meio do algoritmo de florestas aleatórias (RF).
+> Um grupo de pesquisadores-médicos precisa de uma ferramenta para auxilar no diagnóstico de câncer de mama, para tal, é desenvolvida uma ferramenta utilizando IA para classificar um conjunto de dados de tecido neoplásico em maligno (canceroso) ou benigno, por meio do algoritmo de florestas aleatórias (RF). A ferramrnta tem acurácia de 93% num conjunto de dados de teste.
 
 ## 🚧 Roadmap do Projeto
 
